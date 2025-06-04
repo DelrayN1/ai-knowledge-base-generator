@@ -4,9 +4,9 @@
  * Plugin URI: http://delraynelson.com/watch-me-build
  * Description: Generate SEO-optimized Knowledge Base articles for WooCommerce products using AI.
  * Version: 1.0
- * Author: Your Name
+ * Author: Delray Nelson
  * Author URI: http://delraynelson.com/watch-me-build
- * License: GPL2
+ * License: All Rights Reserved, delraynelson.com, llc
  */
 
 // Register Knowledge Base Custom Post Type
